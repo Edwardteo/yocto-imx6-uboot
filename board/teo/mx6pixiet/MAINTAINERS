@@ -1,0 +1,8 @@
+MX6SABRESD BOARD
+M:	Eduardo Teofilo <eduardo.teofilo@code-ing.com>
+S:	Maintained
+F:	board/teo/mx6pixiet/
+F:	include/configs/mx6pixiet.h
+F:	configs/mx6dlpixiet_defconfig
+F:	configs/mx6qpixiet_defconfig
+F:	configs/mx6pixiet_spl_defconfig
